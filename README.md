@@ -6,6 +6,7 @@ This project demonstrates how to load and explore data files using Python (Panda
 It supports multiple file formats including CSV, JSON, Excel, and Parquet.
 
 ## 📁 Project Structure
+```text
 project/
 │
 ├── raw_data/
@@ -17,7 +18,7 @@ project/
 ├── load_data.py
 ├── requirements.txt
 └── README.md
-
+```
 
 ## ⚙️ Features
 * **Load different data formats using Pandas**
